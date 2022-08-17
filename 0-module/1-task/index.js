@@ -1,3 +1,6 @@
 function sum(m, n) {
-  // ваш код...
+  let sum = m + n;
+  return sum
 }
+ sum(1, 1);
+ sum(2, 5);
